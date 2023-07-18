@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T07:54:24.098Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CRwGpKtz4BGB9izXPenY" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-18T07:58:36.099Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="hFAwqTpcKSI2zMsR84Vq" version="21.6.2" type="github">
   <diagram name="Page-1" id="kNt9HomHHjRBWmOzSnRW">
-    <mxGraphModel dx="1050" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,9 +48,6 @@
         </mxCell>
         <mxCell id="jGvtFo4EfA8XS6puAVX5-15" value="Personalized Platform" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="90" y="570" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="jGvtFo4EfA8XS6puAVX5-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/003/056/279/non_2x/online-medical-consultation-health-care-doctor-online-vector.jpg;clipPath=inset(9.67% 14.67% 28.33% 18%);" vertex="1" parent="1">
-          <mxGeometry x="111.99000000000001" y="490.79999999999995" width="76.02" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jGvtFo4EfA8XS6puAVX5-21" value="Better Patient Worker Interaction" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="260" y="570" width="120" height="50" as="geometry" />
@@ -111,6 +108,9 @@
         </mxCell>
         <mxCell id="jGvtFo4EfA8XS6puAVX5-48" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/709/709489.png;imageBackground=none;" vertex="1" parent="1">
           <mxGeometry x="620.44" y="342.5" width="77.5" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jGvtFo4EfA8XS6puAVX5-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/003/056/279/non_2x/online-medical-consultation-health-care-doctor-online-vector.jpg;clipPath=inset(9.67% 14.67% 28.33% 18%);" vertex="1" parent="1">
+          <mxGeometry x="111.99000000000001" y="490.79999999999995" width="76.02" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
